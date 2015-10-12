@@ -18,3 +18,6 @@ http://www.it165.net/admin/html/201308/1628.html
 http://www.cnblogs.com/chinacloud/archive/2011/01/19/1938870.html
 
 http://www.cnblogs.com/PurpleDream/p/4614819.html
+
+#接口
+http://blog.csdn.net/testing_is_believing/article/details/39204105
