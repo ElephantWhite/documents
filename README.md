@@ -21,3 +21,8 @@ http://www.cnblogs.com/PurpleDream/p/4614819.html
 
 #接口
 http://blog.csdn.net/testing_is_believing/article/details/39204105
+
+
+#swoole easybook
+
+https://www.gitbook.com/book/linkeddestiny/easy-swoole/details
