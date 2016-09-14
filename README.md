@@ -22,6 +22,9 @@ http://www.cnblogs.com/PurpleDream/p/4614819.html
 ### 接口
 http://blog.csdn.net/testing_is_believing/article/details/39204105
 
+### 设计模式
+http://designpatternsphp.readthedocs.io/zh_CN/latest/README.html
+
 
 ### swoole easybook
 
@@ -30,3 +33,8 @@ http://blog.csdn.net/testing_is_believing/article/details/39204105
  mysql-断线重连
 
 - https://github.com/153734009/doc/blob/master/php/mysql_pool.php
+
+### TCP/IP协议
+
+### RFC中文文档
+- http://man.chinaunix.net/develop/rfc/default.htm
