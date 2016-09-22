@@ -38,3 +38,8 @@ http://designpatternsphp.readthedocs.io/zh_CN/latest/README.html
 
 ### RFC中文文档
 - http://man.chinaunix.net/develop/rfc/default.htm
+
+
+### oAuth2
+
+http://bshaffer.github.io/oauth2-server-php-docs/
